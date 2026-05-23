@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pymongo import MongoClient
 from datetime import datetime
+import os
 
 app = FastAPI()
 
@@ -12,7 +13,7 @@ app.add_middleware(
     allow_headers=["*"]
 )
 
-client = MongoClient("MONGO_URI")
+client = MongoClient(os.environ["MONGO_URI"])
 #client = MongoClient("mongodb://ISIS2304I03202610:zRrlxLM4A0Vl@157.253.236.88:8087")
 db = client["ISIS2304I03202610"]
 reseñas = db["reseñas"]
