@@ -12,7 +12,8 @@ app.add_middleware(
     allow_headers=["*"]
 )
 
-client = MongoClient("mongodb://ISIS2304I03202610:zRrlxLM4A0Vl@157.253.236.88:8087")
+client = MongoClient("MONGO_URI")
+#client = MongoClient("mongodb://ISIS2304I03202610:zRrlxLM4A0Vl@157.253.236.88:8087")
 db = client["ISIS2304I03202610"]
 reseñas = db["reseñas"]
 
@@ -20,7 +21,7 @@ reseñas = db["reseñas"]
 def inicio():
     return {"estado": "API Dann-Alpes funcionando"}
 
-# ─── RF: RESEÑAS ────────────────────────────────────────
+# reseñas
 
 @app.get("/hoteles/{hotel_id}/reseñas")
 def get_reseñas(hotel_id: str, orden: str = "fecha"):
@@ -118,7 +119,7 @@ def historial_reseñas(cliente_id: str, orden: str = "fecha"):
     ).sort(sort_field, -1))
     return resultado
 
-# ─── RFC: CONSULTAS ANALÍTICAS ──────────────────────────
+# los RFC
 
 @app.get("/rfc/top-hoteles")
 def top_hoteles(fecha_inicio: str, fecha_fin: str):
