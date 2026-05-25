@@ -33,7 +33,7 @@ def get_reseñas(hotel_id: str, orden: str = "fecha"):
     ).sort([("destacada", -1), (sort_field, -1)]))
     return resultado
 
-@app.post("/hoteles/{hotel_id}/reseñas")
+@app.post("/hoteles/{hotel_id}/resenas")
 def crear_reseña(hotel_id: str, datos: dict):
     datos["hotel_id"] = hotel_id
     datos["fecha_creacion"] = datetime.now().isoformat()
@@ -46,7 +46,7 @@ def crear_reseña(hotel_id: str, datos: dict):
     datos.pop("_id", None)
     return {"mensaje": "Reseña creada", "reseña": datos}
 
-@app.put("/reseñas/{reserva_id}")
+@app.put("/resenas/{reserva_id}")
 def editar_reseña(reserva_id: str, datos: dict):
     resultado = reseñas.update_one(
         {"reserva_id": reserva_id},
@@ -59,7 +59,7 @@ def editar_reseña(reserva_id: str, datos: dict):
         return {"error": "Reseña no encontrada"}
     return {"mensaje": "Reseña actualizada"}
 
-@app.delete("/reseñas/{reserva_id}")
+@app.delete("/resenas/{reserva_id}")
 def eliminar_reseña(reserva_id: str):
     reseñas.update_one(
         {"reserva_id": reserva_id},
@@ -67,7 +67,7 @@ def eliminar_reseña(reserva_id: str):
     )
     return {"mensaje": "Reseña eliminada"}
 
-@app.post("/reseñas/{reserva_id}/voto")
+@app.post("/resenas/{reserva_id}/voto")
 def votar_reseña(reserva_id: str, datos: dict):
     cliente_id = datos.get("cliente_id")
     reseña = reseñas.find_one({"reserva_id": reserva_id})
@@ -84,7 +84,7 @@ def votar_reseña(reserva_id: str, datos: dict):
     )
     return {"mensaje": "Voto registrado"}
 
-@app.post("/reseñas/{reserva_id}/respuesta")
+@app.post("/resenas/{reserva_id}/respuesta")
 def responder_reseña(reserva_id: str, datos: dict):
     reseñas.update_one(
         {"reserva_id": reserva_id},
@@ -98,7 +98,7 @@ def responder_reseña(reserva_id: str, datos: dict):
     )
     return {"mensaje": "Respuesta guardada"}
 
-@app.post("/reseñas/{reserva_id}/destacar")
+@app.post("/resenas/{reserva_id}/destacar")
 def destacar_reseña(reserva_id: str, datos: dict):
     hotel_id = datos.get("hotel_id")
     reseñas.update_many(
@@ -111,7 +111,7 @@ def destacar_reseña(reserva_id: str, datos: dict):
     )
     return {"mensaje": "Reseña destacada"}
 
-@app.get("/clientes/{cliente_id}/reseñas")
+@app.get("/clientes/{cliente_id}/resenas")
 def historial_reseñas(cliente_id: str, orden: str = "fecha"):
     sort_field = "fecha_creacion" if orden == "fecha" else "hotel_id"
     resultado = list(reseñas.find(
