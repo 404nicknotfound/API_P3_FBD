@@ -24,7 +24,7 @@ def inicio():
 
 # reseñas
 
-@app.get("/hoteles/{hotel_id}/reseñas")
+@app.get("/hoteles/{hotel_id}/resenas")
 def get_reseñas(hotel_id: str, orden: str = "fecha"):
     sort_field = "fecha_creacion" if orden == "fecha" else "votos_count"
     resultado = list(reseñas.find(
