@@ -1,0 +1,4855 @@
+[
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0001",
+    "reserva_id": "RES0001",
+    "calificacion": 1,
+    "texto": "La piscina estaba cerrada sin previo aviso. Decepcionante.",
+    "fecha_creacion": "2025-03-24T09:43:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 8,
+    "votantes": [
+      "USR0143",
+      "USR0259",
+      "USR0017",
+      "USR0120",
+      "USR0217",
+      "USR0016",
+      "USR0288",
+      "USR0112"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0002",
+    "reserva_id": "RES0002",
+    "calificacion": 1,
+    "texto": "Ruido excesivo durante la noche, no pude descansar bien.",
+    "fecha_creacion": "2026-06-09T10:13:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 5,
+    "votantes": [
+      "USR0184",
+      "USR0195",
+      "USR0050",
+      "USR0275",
+      "USR0053"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0004",
+    "reserva_id": "RES0004",
+    "calificacion": 2,
+    "texto": "La piscina estaba cerrada sin previo aviso. Decepcionante.",
+    "fecha_creacion": "2026-10-28T13:36:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2026-11-08T20:18:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0052"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0005",
+    "reserva_id": "RES0005",
+    "calificacion": 4,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2025-06-07T18:17:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0088"
+    ]
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0006",
+    "reserva_id": "RES0006",
+    "calificacion": 3,
+    "texto": "Cumple con lo básico, el desayuno podría mejorar.",
+    "fecha_creacion": "2025-11-23T16:14:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0007",
+    "reserva_id": "RES0007",
+    "calificacion": 1,
+    "texto": "La piscina estaba cerrada sin previo aviso. Decepcionante.",
+    "fecha_creacion": "2025-02-07T22:36:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 5,
+    "votantes": [
+      "USR0256",
+      "USR0235",
+      "USR0074",
+      "USR0288",
+      "USR0072"
+    ]
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0008",
+    "reserva_id": "RES0008",
+    "calificacion": 4,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-03-17T15:05:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0079"
+    ]
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0009",
+    "reserva_id": "RES0009",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-10-15T16:16:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT005",
+    "cliente_id": "USR0010",
+    "reserva_id": "RES0010",
+    "calificacion": 2,
+    "texto": "El aire acondicionado no funcionaba correctamente.",
+    "fecha_creacion": "2026-11-11T09:18:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2026-12-24T12:32:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0153",
+      "USR0260"
+    ]
+  },
+  {
+    "hotel_id": "HOT005",
+    "cliente_id": "USR0011",
+    "reserva_id": "RES0011",
+    "calificacion": 3,
+    "texto": "Buena ubicación pero las habitaciones necesitan renovación.",
+    "fecha_creacion": "2025-09-01T17:20:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-05-08T08:15:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0249"
+    ]
+  },
+  {
+    "hotel_id": "HOT006",
+    "cliente_id": "USR0012",
+    "reserva_id": "RES0012",
+    "calificacion": 5,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2025-08-18T10:16:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-04-18T20:46:00",
+      "admin_id": "USR0295"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0205",
+      "USR0225",
+      "USR0192"
+    ]
+  },
+  {
+    "hotel_id": "HOT007",
+    "cliente_id": "USR0014",
+    "reserva_id": "RES0014",
+    "calificacion": 4,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-01-03T19:40:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-06-03T16:15:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0277",
+      "USR0068",
+      "USR0125",
+      "USR0243"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0015",
+    "reserva_id": "RES0015",
+    "calificacion": 5,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-11-14T13:27:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-01-13T19:21:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0099"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0017",
+    "reserva_id": "RES0017",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-02-15T20:55:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0277"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0018",
+    "reserva_id": "RES0018",
+    "calificacion": 5,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-08-16T11:55:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-07-01T14:16:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 7,
+    "votantes": [
+      "USR0152",
+      "USR0250",
+      "USR0217",
+      "USR0161",
+      "USR0147",
+      "USR0297",
+      "USR0098"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0020",
+    "reserva_id": "RES0020",
+    "calificacion": 5,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2025-09-03T21:11:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-07-04T22:36:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0290",
+      "USR0042",
+      "USR0215"
+    ]
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0021",
+    "reserva_id": "RES0021",
+    "calificacion": 5,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2026-06-08T12:25:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2026-06-25T22:04:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0022",
+    "reserva_id": "RES0022",
+    "calificacion": 5,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-04-17T12:08:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0190"
+    ]
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0023",
+    "reserva_id": "RES0023",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2026-11-17T08:42:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 4,
+    "votantes": [
+      "USR0060",
+      "USR0080",
+      "USR0069",
+      "USR0055"
+    ]
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0024",
+    "reserva_id": "RES0024",
+    "calificacion": 3,
+    "texto": "El personal fue amable aunque el servicio fue algo lento.",
+    "fecha_creacion": "2025-11-28T12:32:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-11-14T21:17:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT005",
+    "cliente_id": "USR0026",
+    "reserva_id": "RES0026",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-08-18T19:27:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-12-05T16:02:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0184",
+      "USR0187",
+      "USR0076",
+      "USR0283",
+      "USR0299"
+    ]
+  },
+  {
+    "hotel_id": "HOT006",
+    "cliente_id": "USR0027",
+    "reserva_id": "RES0027",
+    "calificacion": 3,
+    "texto": "Hotel aceptable para el precio pagado, nada extraordinario.",
+    "fecha_creacion": "2025-09-28T14:39:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 3,
+    "votantes": [
+      "USR0212",
+      "USR0084",
+      "USR0171"
+    ]
+  },
+  {
+    "hotel_id": "HOT006",
+    "cliente_id": "USR0028",
+    "reserva_id": "RES0028",
+    "calificacion": 4,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-12-04T14:55:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-04-27T22:29:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0143",
+      "USR0205",
+      "USR0099",
+      "USR0157",
+      "USR0115"
+    ]
+  },
+  {
+    "hotel_id": "HOT007",
+    "cliente_id": "USR0029",
+    "reserva_id": "RES0029",
+    "calificacion": 4,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2026-02-09T10:37:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 4,
+    "votantes": [
+      "USR0223",
+      "USR0161",
+      "USR0056",
+      "USR0224"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0030",
+    "reserva_id": "RES0030",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-07-01T16:59:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 3,
+    "votantes": [
+      "USR0187",
+      "USR0161",
+      "USR0170"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0031",
+    "reserva_id": "RES0031",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2026-06-13T19:18:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2026-11-13T18:47:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0281",
+      "USR0208"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0032",
+    "reserva_id": "RES0032",
+    "calificacion": 4,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-10-20T18:20:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-09-16T20:57:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0146",
+      "USR0044"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0034",
+    "reserva_id": "RES0034",
+    "calificacion": 3,
+    "texto": "El personal fue amable aunque el servicio fue algo lento.",
+    "fecha_creacion": "2025-04-05T08:02:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-02-15T14:56:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0205",
+      "USR0254",
+      "USR0125"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0035",
+    "reserva_id": "RES0035",
+    "calificacion": 5,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2026-04-06T20:44:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2026-04-28T09:29:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0238",
+      "USR0272"
+    ]
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0036",
+    "reserva_id": "RES0036",
+    "calificacion": 5,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2026-09-15T22:10:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 7,
+    "votantes": [
+      "USR0172",
+      "USR0140",
+      "USR0141",
+      "USR0123",
+      "USR0147",
+      "USR0040",
+      "USR0127"
+    ]
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0037",
+    "reserva_id": "RES0037",
+    "calificacion": 4,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2025-07-23T10:45:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-06-18T15:26:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0038",
+    "reserva_id": "RES0038",
+    "calificacion": 4,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2026-10-13T15:00:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 4,
+    "votantes": [
+      "USR0250",
+      "USR0200",
+      "USR0215",
+      "USR0280"
+    ]
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0039",
+    "reserva_id": "RES0039",
+    "calificacion": 1,
+    "texto": "La piscina estaba cerrada sin previo aviso. Decepcionante.",
+    "fecha_creacion": "2026-07-24T10:53:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2026-09-01T22:25:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT005",
+    "cliente_id": "USR0041",
+    "reserva_id": "RES0041",
+    "calificacion": 5,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2025-07-11T11:29:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-07-09T21:05:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 7,
+    "votantes": [
+      "USR0277",
+      "USR0079",
+      "USR0010",
+      "USR0115",
+      "USR0016",
+      "USR0011",
+      "USR0123"
+    ]
+  },
+  {
+    "hotel_id": "HOT006",
+    "cliente_id": "USR0042",
+    "reserva_id": "RES0042",
+    "calificacion": 2,
+    "texto": "Ruido excesivo durante la noche, no pude descansar bien.",
+    "fecha_creacion": "2025-05-25T13:10:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0160"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0045",
+    "reserva_id": "RES0045",
+    "calificacion": 5,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-12-07T09:37:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 3,
+    "votantes": [
+      "USR0155",
+      "USR0290",
+      "USR0053"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0046",
+    "reserva_id": "RES0046",
+    "calificacion": 5,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-06-01T21:26:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0186"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0047",
+    "reserva_id": "RES0047",
+    "calificacion": 5,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2025-12-17T18:17:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 8,
+    "votantes": [
+      "USR0143",
+      "USR0195",
+      "USR0166",
+      "USR0125",
+      "USR0292",
+      "USR0254",
+      "USR0126",
+      "USR0224"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0048",
+    "reserva_id": "RES0048",
+    "calificacion": 3,
+    "texto": "Buena ubicación pero las habitaciones necesitan renovación.",
+    "fecha_creacion": "2025-05-11T12:56:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-01-17T11:05:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0209",
+      "USR0252",
+      "USR0124"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0049",
+    "reserva_id": "RES0049",
+    "calificacion": 1,
+    "texto": "La piscina estaba cerrada sin previo aviso. Decepcionante.",
+    "fecha_creacion": "2025-12-08T12:42:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-09-12T14:47:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 8,
+    "votantes": [
+      "USR0275",
+      "USR0099",
+      "USR0157",
+      "USR0181",
+      "USR0062",
+      "USR0162",
+      "USR0111",
+      "USR0170"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0050",
+    "reserva_id": "RES0050",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2026-04-10T11:23:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2026-03-09T08:03:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 8,
+    "votantes": [
+      "USR0150",
+      "USR0246",
+      "USR0053",
+      "USR0065",
+      "USR0175",
+      "USR0095",
+      "USR0130",
+      "USR0245"
+    ]
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0051",
+    "reserva_id": "RES0051",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-11-02T10:09:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 4,
+    "votantes": [
+      "USR0214",
+      "USR0286",
+      "USR0195",
+      "USR0044"
+    ]
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0052",
+    "reserva_id": "RES0052",
+    "calificacion": 4,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-10-02T17:47:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-05-22T09:10:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0081",
+      "USR0210",
+      "USR0089"
+    ]
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0053",
+    "reserva_id": "RES0053",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-05-23T12:44:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0136"
+    ]
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0054",
+    "reserva_id": "RES0054",
+    "calificacion": 4,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-09-08T18:09:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 2,
+    "votantes": [
+      "USR0037",
+      "USR0031"
+    ]
+  },
+  {
+    "hotel_id": "HOT005",
+    "cliente_id": "USR0055",
+    "reserva_id": "RES0055",
+    "calificacion": 5,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-08-23T12:44:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-09-16T15:05:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT005",
+    "cliente_id": "USR0056",
+    "reserva_id": "RES0056",
+    "calificacion": 5,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-04-22T21:55:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-10-02T20:48:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0143",
+      "USR0241"
+    ]
+  },
+  {
+    "hotel_id": "HOT006",
+    "cliente_id": "USR0058",
+    "reserva_id": "RES0058",
+    "calificacion": 4,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-08-12T14:21:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2026-06-14T19:31:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0166",
+      "USR0162",
+      "USR0206",
+      "USR0282"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0060",
+    "reserva_id": "RES0060",
+    "calificacion": 5,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2026-09-15T14:03:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2026-08-21T15:48:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0061",
+    "reserva_id": "RES0061",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-12-16T09:01:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 3,
+    "votantes": [
+      "USR0008",
+      "USR0209",
+      "USR0283"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0063",
+    "reserva_id": "RES0063",
+    "calificacion": 5,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-11-27T10:31:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 4,
+    "votantes": [
+      "USR0261",
+      "USR0234",
+      "USR0125",
+      "USR0213"
+    ]
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0066",
+    "reserva_id": "RES0066",
+    "calificacion": 5,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2026-05-25T20:54:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2026-01-10T19:19:00",
+      "admin_id": "USR0295"
+    },
+    "votos_count": 7,
+    "votantes": [
+      "USR0177",
+      "USR0279",
+      "USR0234",
+      "USR0097",
+      "USR0123",
+      "USR0171",
+      "USR0077"
+    ]
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0067",
+    "reserva_id": "RES0067",
+    "calificacion": 5,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-12-16T19:58:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 6,
+    "votantes": [
+      "USR0234",
+      "USR0008",
+      "USR0254",
+      "USR0052",
+      "USR0270",
+      "USR0170"
+    ]
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0068",
+    "reserva_id": "RES0068",
+    "calificacion": 4,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2025-05-11T17:44:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-11-28T16:24:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0250",
+      "USR0148",
+      "USR0223",
+      "USR0047",
+      "USR0036"
+    ]
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0069",
+    "reserva_id": "RES0069",
+    "calificacion": 5,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-12-10T22:01:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-06-12T14:09:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0211",
+      "USR0290",
+      "USR0088"
+    ]
+  },
+  {
+    "hotel_id": "HOT005",
+    "cliente_id": "USR0071",
+    "reserva_id": "RES0071",
+    "calificacion": 4,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-10-05T11:29:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 7,
+    "votantes": [
+      "USR0081",
+      "USR0148",
+      "USR0234",
+      "USR0227",
+      "USR0155",
+      "USR0131",
+      "USR0154"
+    ]
+  },
+  {
+    "hotel_id": "HOT006",
+    "cliente_id": "USR0073",
+    "reserva_id": "RES0073",
+    "calificacion": 4,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-06-19T12:44:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-01-19T21:43:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT007",
+    "cliente_id": "USR0074",
+    "reserva_id": "RES0074",
+    "calificacion": 5,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2026-04-20T20:22:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2026-05-22T20:46:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0050",
+      "USR0226"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0076",
+    "reserva_id": "RES0076",
+    "calificacion": 2,
+    "texto": "La piscina estaba cerrada sin previo aviso. Decepcionante.",
+    "fecha_creacion": "2025-07-06T11:08:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 5,
+    "votantes": [
+      "USR0257",
+      "USR0152",
+      "USR0174",
+      "USR0247",
+      "USR0272"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0077",
+    "reserva_id": "RES0077",
+    "calificacion": 2,
+    "texto": "Ruido excesivo durante la noche, no pude descansar bien.",
+    "fecha_creacion": "2026-12-22T14:54:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 5,
+    "votantes": [
+      "USR0275",
+      "USR0008",
+      "USR0047",
+      "USR0064",
+      "USR0203"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0078",
+    "reserva_id": "RES0078",
+    "calificacion": 4,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2025-04-16T08:39:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 8,
+    "votantes": [
+      "USR0050",
+      "USR0168",
+      "USR0155",
+      "USR0253",
+      "USR0210",
+      "USR0072",
+      "USR0033",
+      "USR0238"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0080",
+    "reserva_id": "RES0080",
+    "calificacion": 5,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-12-05T22:26:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 7,
+    "votantes": [
+      "USR0184",
+      "USR0017",
+      "USR0186",
+      "USR0279",
+      "USR0032",
+      "USR0209",
+      "USR0051"
+    ]
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0081",
+    "reserva_id": "RES0081",
+    "calificacion": 3,
+    "texto": "Hotel aceptable para el precio pagado, nada extraordinario.",
+    "fecha_creacion": "2026-08-03T18:13:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0083",
+    "reserva_id": "RES0083",
+    "calificacion": 5,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-09-07T17:13:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 3,
+    "votantes": [
+      "USR0067",
+      "USR0169",
+      "USR0076"
+    ]
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0084",
+    "reserva_id": "RES0084",
+    "calificacion": 5,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2026-01-05T08:22:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 3,
+    "votantes": [
+      "USR0166",
+      "USR0065",
+      "USR0009"
+    ]
+  },
+  {
+    "hotel_id": "HOT005",
+    "cliente_id": "USR0085",
+    "reserva_id": "RES0085",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-06-17T17:06:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-01-24T20:58:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 8,
+    "votantes": [
+      "USR0235",
+      "USR0155",
+      "USR0016",
+      "USR0219",
+      "USR0056",
+      "USR0246",
+      "USR0206",
+      "USR0042"
+    ]
+  },
+  {
+    "hotel_id": "HOT005",
+    "cliente_id": "USR0086",
+    "reserva_id": "RES0086",
+    "calificacion": 4,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2025-10-17T12:29:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-12-04T21:41:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 8,
+    "votantes": [
+      "USR0174",
+      "USR0205",
+      "USR0079",
+      "USR0212",
+      "USR0219",
+      "USR0161",
+      "USR0131",
+      "USR0111"
+    ]
+  },
+  {
+    "hotel_id": "HOT006",
+    "cliente_id": "USR0087",
+    "reserva_id": "RES0087",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2026-02-14T09:47:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 2,
+    "votantes": [
+      "USR0031",
+      "USR0288"
+    ]
+  },
+  {
+    "hotel_id": "HOT006",
+    "cliente_id": "USR0088",
+    "reserva_id": "RES0088",
+    "calificacion": 2,
+    "texto": "La piscina estaba cerrada sin previo aviso. Decepcionante.",
+    "fecha_creacion": "2026-07-28T22:46:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2026-05-12T09:36:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 8,
+    "votantes": [
+      "USR0143",
+      "USR0286",
+      "USR0247",
+      "USR0288",
+      "USR0115",
+      "USR0056",
+      "USR0109",
+      "USR0080"
+    ]
+  },
+  {
+    "hotel_id": "HOT007",
+    "cliente_id": "USR0089",
+    "reserva_id": "RES0089",
+    "calificacion": 5,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-05-23T20:19:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 5,
+    "votantes": [
+      "USR0074",
+      "USR0073",
+      "USR0016",
+      "USR0290",
+      "USR0206"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0090",
+    "reserva_id": "RES0090",
+    "calificacion": 4,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2025-05-24T13:49:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0027"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0092",
+    "reserva_id": "RES0092",
+    "calificacion": 5,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-07-16T17:28:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-02-12T14:07:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0250",
+      "USR0029",
+      "USR0270",
+      "USR0203"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0093",
+    "reserva_id": "RES0093",
+    "calificacion": 5,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2026-05-11T09:00:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2026-03-13T16:45:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0182",
+      "USR0287",
+      "USR0204"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0094",
+    "reserva_id": "RES0094",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2026-10-14T17:25:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 6,
+    "votantes": [
+      "USR0186",
+      "USR0125",
+      "USR0011",
+      "USR0088",
+      "USR0149",
+      "USR0224"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0095",
+    "reserva_id": "RES0095",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-05-24T13:14:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-09-21T09:33:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 8,
+    "votantes": [
+      "USR0079",
+      "USR0253",
+      "USR0289",
+      "USR0076",
+      "USR0053",
+      "USR0089",
+      "USR0091",
+      "USR0039"
+    ]
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0096",
+    "reserva_id": "RES0096",
+    "calificacion": 4,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2026-11-11T10:28:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2026-05-19T08:22:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 8,
+    "votantes": [
+      "USR0298",
+      "USR0237",
+      "USR0147",
+      "USR0047",
+      "USR0260",
+      "USR0159",
+      "USR0038",
+      "USR0197"
+    ]
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0097",
+    "reserva_id": "RES0097",
+    "calificacion": 5,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-08-17T10:03:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-09-21T10:02:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0187",
+      "USR0269",
+      "USR0225"
+    ]
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0098",
+    "reserva_id": "RES0098",
+    "calificacion": 3,
+    "texto": "Cumple con lo básico, el desayuno podría mejorar.",
+    "fecha_creacion": "2026-11-20T08:50:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 5,
+    "votantes": [
+      "USR0286",
+      "USR0169",
+      "USR0042",
+      "USR0171",
+      "USR0077"
+    ]
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0099",
+    "reserva_id": "RES0099",
+    "calificacion": 2,
+    "texto": "La piscina estaba cerrada sin previo aviso. Decepcionante.",
+    "fecha_creacion": "2025-11-23T18:25:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-09-13T18:50:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0261",
+      "USR0186",
+      "USR0010",
+      "USR0217",
+      "USR0270"
+    ]
+  },
+  {
+    "hotel_id": "HOT005",
+    "cliente_id": "USR0100",
+    "reserva_id": "RES0100",
+    "calificacion": 4,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2025-03-05T09:18:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0277"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0101",
+    "reserva_id": "RES0101",
+    "calificacion": 5,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2026-10-05T17:24:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2026-03-24T15:02:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 6,
+    "votantes": [
+      "USR0120",
+      "USR0187",
+      "USR0123",
+      "USR0159",
+      "USR0189",
+      "USR0100"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0102",
+    "reserva_id": "RES0102",
+    "calificacion": 4,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2025-05-25T14:32:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-10-05T21:16:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0103",
+    "reserva_id": "RES0103",
+    "calificacion": 5,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2026-09-28T09:18:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2026-08-17T10:53:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 6,
+    "votantes": [
+      "USR0047",
+      "USR0213",
+      "USR0203",
+      "USR0179",
+      "USR0014",
+      "USR0192"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0104",
+    "reserva_id": "RES0104",
+    "calificacion": 4,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2025-02-27T19:41:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-01-10T22:53:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 7,
+    "votantes": [
+      "USR0271",
+      "USR0057",
+      "USR0148",
+      "USR0010",
+      "USR0217",
+      "USR0281",
+      "USR0072"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0105",
+    "reserva_id": "RES0105",
+    "calificacion": 2,
+    "texto": "Ruido excesivo durante la noche, no pude descansar bien.",
+    "fecha_creacion": "2025-10-15T09:07:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 7,
+    "votantes": [
+      "USR0275",
+      "USR0214",
+      "USR0096",
+      "USR0150",
+      "USR0074",
+      "USR0181",
+      "USR0295"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0106",
+    "reserva_id": "RES0106",
+    "calificacion": 2,
+    "texto": "La piscina estaba cerrada sin previo aviso. Decepcionante.",
+    "fecha_creacion": "2025-09-18T16:50:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 8,
+    "votantes": [
+      "USR0298",
+      "USR0200",
+      "USR0011",
+      "USR0171",
+      "USR0023",
+      "USR0199",
+      "USR0130",
+      "USR0192"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0108",
+    "reserva_id": "RES0108",
+    "calificacion": 5,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2026-11-15T19:30:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 2,
+    "votantes": [
+      "USR0019",
+      "USR0235"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0109",
+    "reserva_id": "RES0109",
+    "calificacion": 5,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2025-05-17T14:52:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-11-07T12:22:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0110",
+    "reserva_id": "RES0110",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2026-07-13T19:28:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 6,
+    "votantes": [
+      "USR0174",
+      "USR0096",
+      "USR0266",
+      "USR0137",
+      "USR0255",
+      "USR0093"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0111",
+    "reserva_id": "RES0111",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-05-10T15:38:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 2,
+    "votantes": [
+      "USR0228",
+      "USR0022"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0112",
+    "reserva_id": "RES0112",
+    "calificacion": 5,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-01-03T18:40:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-01-05T21:38:00",
+      "admin_id": "USR0295"
+    },
+    "votos_count": 7,
+    "votantes": [
+      "USR0186",
+      "USR0017",
+      "USR0188",
+      "USR0079",
+      "USR0191",
+      "USR0231",
+      "USR0291"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0113",
+    "reserva_id": "RES0113",
+    "calificacion": 4,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2025-11-09T11:07:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-09-13T22:35:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0134"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0114",
+    "reserva_id": "RES0114",
+    "calificacion": 3,
+    "texto": "El personal fue amable aunque el servicio fue algo lento.",
+    "fecha_creacion": "2026-08-07T09:08:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 7,
+    "votantes": [
+      "USR0261",
+      "USR0081",
+      "USR0186",
+      "USR0282",
+      "USR0089",
+      "USR0149",
+      "USR0154"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0115",
+    "reserva_id": "RES0115",
+    "calificacion": 5,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2025-08-01T13:35:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-03-20T22:05:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0204"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0116",
+    "reserva_id": "RES0116",
+    "calificacion": 5,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2026-10-03T10:20:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 7,
+    "votantes": [
+      "USR0067",
+      "USR0266",
+      "USR0079",
+      "USR0029",
+      "USR0064",
+      "USR0283",
+      "USR0066"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0118",
+    "reserva_id": "RES0118",
+    "calificacion": 5,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2026-09-10T21:05:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2026-03-21T12:39:00",
+      "admin_id": "USR0295"
+    },
+    "votos_count": 8,
+    "votantes": [
+      "USR0079",
+      "USR0108",
+      "USR0298",
+      "USR0088",
+      "USR0042",
+      "USR0136",
+      "USR0289",
+      "USR0173"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0119",
+    "reserva_id": "RES0119",
+    "calificacion": 4,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-09-10T18:19:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2026-08-03T19:03:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0238",
+      "USR0248"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0120",
+    "reserva_id": "RES0120",
+    "calificacion": 4,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2026-06-24T21:22:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 2,
+    "votantes": [
+      "USR0055",
+      "USR0190"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0121",
+    "reserva_id": "RES0121",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-03-04T08:18:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 6,
+    "votantes": [
+      "USR0256",
+      "USR0168",
+      "USR0161",
+      "USR0240",
+      "USR0098",
+      "USR0296"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0122",
+    "reserva_id": "RES0122",
+    "calificacion": 2,
+    "texto": "La comida del restaurante dejó mucho que desear.",
+    "fecha_creacion": "2025-04-07T17:22:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-10-27T18:43:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 7,
+    "votantes": [
+      "USR0275",
+      "USR0188",
+      "USR0207",
+      "USR0292",
+      "USR0147",
+      "USR0056",
+      "USR0206"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0123",
+    "reserva_id": "RES0123",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-09-15T20:35:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-02-05T09:25:00",
+      "admin_id": "USR0295"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0261",
+      "USR0174",
+      "USR0286",
+      "USR0188",
+      "USR0074"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0125",
+    "reserva_id": "RES0125",
+    "calificacion": 5,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2025-09-05T13:59:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 2,
+    "votantes": [
+      "USR0173",
+      "USR0202"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0126",
+    "reserva_id": "RES0126",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-01-12T13:43:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-05-26T22:46:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0127",
+    "reserva_id": "RES0127",
+    "calificacion": 3,
+    "texto": "Buena ubicación pero las habitaciones necesitan renovación.",
+    "fecha_creacion": "2026-10-16T10:33:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 6,
+    "votantes": [
+      "USR0057",
+      "USR0017",
+      "USR0010",
+      "USR0125",
+      "USR0212",
+      "USR0161"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0128",
+    "reserva_id": "RES0128",
+    "calificacion": 4,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-12-24T08:45:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2026-06-22T15:33:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 6,
+    "votantes": [
+      "USR0143",
+      "USR0099",
+      "USR0182",
+      "USR0161",
+      "USR0136",
+      "USR0089"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0129",
+    "reserva_id": "RES0129",
+    "calificacion": 3,
+    "texto": "El personal fue amable aunque el servicio fue algo lento.",
+    "fecha_creacion": "2026-12-07T19:45:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2026-09-26T19:17:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0195",
+      "USR0279",
+      "USR0149",
+      "USR0203"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0131",
+    "reserva_id": "RES0131",
+    "calificacion": 2,
+    "texto": "La comida del restaurante dejó mucho que desear.",
+    "fecha_creacion": "2026-12-16T11:12:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 4,
+    "votantes": [
+      "USR0288",
+      "USR0125",
+      "USR0123",
+      "USR0056"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0132",
+    "reserva_id": "RES0132",
+    "calificacion": 3,
+    "texto": "Hotel aceptable para el precio pagado, nada extraordinario.",
+    "fecha_creacion": "2025-12-16T09:43:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0133",
+    "reserva_id": "RES0133",
+    "calificacion": 5,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2025-08-16T18:12:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 4,
+    "votantes": [
+      "USR0147",
+      "USR0119",
+      "USR0020",
+      "USR0294"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0134",
+    "reserva_id": "RES0134",
+    "calificacion": 3,
+    "texto": "Buena ubicación pero las habitaciones necesitan renovación.",
+    "fecha_creacion": "2026-01-27T14:50:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2026-01-10T17:38:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0146"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0135",
+    "reserva_id": "RES0135",
+    "calificacion": 4,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-03-28T16:29:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2026-03-24T15:41:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0152",
+      "USR0096",
+      "USR0008",
+      "USR0099"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0136",
+    "reserva_id": "RES0136",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-02-06T10:30:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-05-13T11:28:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0155",
+      "USR0169",
+      "USR0134",
+      "USR0299"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0139",
+    "reserva_id": "RES0139",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2026-11-10T13:39:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2026-03-15T19:38:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0271",
+      "USR0042",
+      "USR0282",
+      "USR0213",
+      "USR0242"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0140",
+    "reserva_id": "RES0140",
+    "calificacion": 2,
+    "texto": "El aire acondicionado no funcionaba correctamente.",
+    "fecha_creacion": "2025-09-17T11:36:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-09-15T09:43:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0029",
+      "USR0047",
+      "USR0229"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0141",
+    "reserva_id": "RES0141",
+    "calificacion": 4,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2025-09-15T18:51:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-05-27T08:47:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0217",
+      "USR0033",
+      "USR0038"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0142",
+    "reserva_id": "RES0142",
+    "calificacion": 2,
+    "texto": "El servicio fue lento y el cuarto llegó sucio.",
+    "fecha_creacion": "2026-08-02T12:26:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2026-06-13T15:55:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 6,
+    "votantes": [
+      "USR0277",
+      "USR0271",
+      "USR0092",
+      "USR0202",
+      "USR0115",
+      "USR0042"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0143",
+    "reserva_id": "RES0143",
+    "calificacion": 5,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-12-18T14:34:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-08-12T10:17:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0017",
+      "USR0106",
+      "USR0215"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0145",
+    "reserva_id": "RES0145",
+    "calificacion": 4,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2025-01-13T15:14:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-09-10T11:52:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0155",
+      "USR0074",
+      "USR0212",
+      "USR0141",
+      "USR0154"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0147",
+    "reserva_id": "RES0147",
+    "calificacion": 5,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2026-07-18T15:03:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 6,
+    "votantes": [
+      "USR0214",
+      "USR0210",
+      "USR0269",
+      "USR0154",
+      "USR0077",
+      "USR0095"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0148",
+    "reserva_id": "RES0148",
+    "calificacion": 5,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-09-14T14:35:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2026-05-07T13:41:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0231"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0150",
+    "reserva_id": "RES0150",
+    "calificacion": 3,
+    "texto": "El personal fue amable aunque el servicio fue algo lento.",
+    "fecha_creacion": "2025-10-20T08:55:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-04-16T11:55:00",
+      "admin_id": "USR0295"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0008",
+      "USR0125",
+      "USR0123",
+      "USR0246",
+      "USR0061"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0151",
+    "reserva_id": "RES0151",
+    "calificacion": 5,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-11-12T12:16:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-02-26T19:30:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0212",
+      "USR0161",
+      "USR0289",
+      "USR0134",
+      "USR0105"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0152",
+    "reserva_id": "RES0152",
+    "calificacion": 4,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-04-11T11:24:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-09-21T18:21:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0181",
+      "USR0072",
+      "USR0280",
+      "USR0252"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0153",
+    "reserva_id": "RES0153",
+    "calificacion": 5,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2025-02-27T18:03:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 6,
+    "votantes": [
+      "USR0259",
+      "USR0250",
+      "USR0234",
+      "USR0119",
+      "USR0192",
+      "USR0005"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0155",
+    "reserva_id": "RES0155",
+    "calificacion": 4,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2025-05-18T12:01:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-02-04T16:09:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0137",
+      "USR0099",
+      "USR0182"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0157",
+    "reserva_id": "RES0157",
+    "calificacion": 4,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2026-04-10T18:52:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0159",
+    "reserva_id": "RES0159",
+    "calificacion": 4,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2026-12-06T09:31:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 5,
+    "votantes": [
+      "USR0271",
+      "USR0118",
+      "USR0290",
+      "USR0291",
+      "USR0109"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0160",
+    "reserva_id": "RES0160",
+    "calificacion": 5,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2026-10-22T08:11:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 5,
+    "votantes": [
+      "USR0107",
+      "USR0074",
+      "USR0084",
+      "USR0291",
+      "USR0154"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0161",
+    "reserva_id": "RES0161",
+    "calificacion": 4,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2025-12-05T20:44:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 8,
+    "votantes": [
+      "USR0168",
+      "USR0016",
+      "USR0183",
+      "USR0224",
+      "USR0039",
+      "USR0051",
+      "USR0119",
+      "USR0178"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0162",
+    "reserva_id": "RES0162",
+    "calificacion": 4,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-10-10T20:15:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0138"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0163",
+    "reserva_id": "RES0163",
+    "calificacion": 5,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2026-06-12T09:05:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2026-06-25T12:06:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0221",
+      "USR0096"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0164",
+    "reserva_id": "RES0164",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-06-18T09:38:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-01-10T14:24:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0287"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0165",
+    "reserva_id": "RES0165",
+    "calificacion": 3,
+    "texto": "Cumple con lo básico, el desayuno podría mejorar.",
+    "fecha_creacion": "2025-05-10T12:31:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-05-14T12:30:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0129"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0166",
+    "reserva_id": "RES0166",
+    "calificacion": 5,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2025-04-15T09:08:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-10-13T20:55:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0172",
+      "USR0161",
+      "USR0246",
+      "USR0154",
+      "USR0103"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0167",
+    "reserva_id": "RES0167",
+    "calificacion": 5,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2026-11-16T17:50:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2026-07-12T09:59:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0108",
+      "USR0237",
+      "USR0282"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0168",
+    "reserva_id": "RES0168",
+    "calificacion": 3,
+    "texto": "Hotel aceptable para el precio pagado, nada extraordinario.",
+    "fecha_creacion": "2026-07-22T15:08:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 3,
+    "votantes": [
+      "USR0079",
+      "USR0217",
+      "USR0194"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0169",
+    "reserva_id": "RES0169",
+    "calificacion": 4,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-12-14T16:02:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 5,
+    "votantes": [
+      "USR0275",
+      "USR0205",
+      "USR0182",
+      "USR0056",
+      "USR0044"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0170",
+    "reserva_id": "RES0170",
+    "calificacion": 4,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2025-04-17T19:33:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-08-12T14:29:00",
+      "admin_id": "USR0295"
+    },
+    "votos_count": 8,
+    "votantes": [
+      "USR0152",
+      "USR0234",
+      "USR0073",
+      "USR0106",
+      "USR0044",
+      "USR0213",
+      "USR0013",
+      "USR0179"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0171",
+    "reserva_id": "RES0171",
+    "calificacion": 4,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-08-11T09:19:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2026-06-21T09:43:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0090",
+      "USR0283"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0173",
+    "reserva_id": "RES0173",
+    "calificacion": 5,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2026-11-06T10:40:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 6,
+    "votantes": [
+      "USR0143",
+      "USR0110",
+      "USR0106",
+      "USR0200",
+      "USR0033",
+      "USR0053"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0174",
+    "reserva_id": "RES0174",
+    "calificacion": 4,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2025-08-04T12:42:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 8,
+    "votantes": [
+      "USR0153",
+      "USR0235",
+      "USR0181",
+      "USR0157",
+      "USR0161",
+      "USR0123",
+      "USR0044",
+      "USR0089"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0176",
+    "reserva_id": "RES0176",
+    "calificacion": 4,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-10-13T14:11:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-09-06T15:18:00",
+      "admin_id": "USR0295"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0231",
+      "USR0162"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0177",
+    "reserva_id": "RES0177",
+    "calificacion": 5,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2025-07-18T16:41:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-12-27T15:31:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0043",
+      "USR0290"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0178",
+    "reserva_id": "RES0178",
+    "calificacion": 3,
+    "texto": "El personal fue amable aunque el servicio fue algo lento.",
+    "fecha_creacion": "2025-08-19T19:49:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 8,
+    "votantes": [
+      "USR0153",
+      "USR0279",
+      "USR0188",
+      "USR0053",
+      "USR0280",
+      "USR0127",
+      "USR0138",
+      "USR0022"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0179",
+    "reserva_id": "RES0179",
+    "calificacion": 1,
+    "texto": "La piscina estaba cerrada sin previo aviso. Decepcionante.",
+    "fecha_creacion": "2025-02-15T21:07:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 3,
+    "votantes": [
+      "USR0108",
+      "USR0106",
+      "USR0072"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0180",
+    "reserva_id": "RES0180",
+    "calificacion": 5,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2025-10-18T10:20:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 4,
+    "votantes": [
+      "USR0137",
+      "USR0211",
+      "USR0149",
+      "USR0049"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0181",
+    "reserva_id": "RES0181",
+    "calificacion": 5,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2026-03-08T10:45:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2026-08-05T17:40:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0143",
+      "USR0207",
+      "USR0213",
+      "USR0039"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0182",
+    "reserva_id": "RES0182",
+    "calificacion": 5,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-06-19T08:55:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0184"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0183",
+    "reserva_id": "RES0183",
+    "calificacion": 5,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-07-27T11:31:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-09-19T10:36:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 7,
+    "votantes": [
+      "USR0081",
+      "USR0234",
+      "USR0068",
+      "USR0064",
+      "USR0051",
+      "USR0009",
+      "USR0001"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0184",
+    "reserva_id": "RES0184",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-06-09T09:23:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 2,
+    "votantes": [
+      "USR0027",
+      "USR0157"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0185",
+    "reserva_id": "RES0185",
+    "calificacion": 2,
+    "texto": "El servicio fue lento y el cuarto llegó sucio.",
+    "fecha_creacion": "2025-08-03T10:37:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-01-23T13:52:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0068"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0186",
+    "reserva_id": "RES0186",
+    "calificacion": 3,
+    "texto": "Hotel aceptable para el precio pagado, nada extraordinario.",
+    "fecha_creacion": "2026-02-04T13:23:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 2,
+    "votantes": [
+      "USR0036",
+      "USR0074"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0187",
+    "reserva_id": "RES0187",
+    "calificacion": 1,
+    "texto": "Cobros adicionales no informados al momento de reservar.",
+    "fecha_creacion": "2025-06-24T11:40:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 6,
+    "votantes": [
+      "USR0227",
+      "USR0052",
+      "USR0162",
+      "USR0112",
+      "USR0072",
+      "USR0064"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0188",
+    "reserva_id": "RES0188",
+    "calificacion": 2,
+    "texto": "El aire acondicionado no funcionaba correctamente.",
+    "fecha_creacion": "2026-12-20T12:49:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0189",
+    "reserva_id": "RES0189",
+    "calificacion": 5,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-10-17T11:47:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-08-13T09:15:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 7,
+    "votantes": [
+      "USR0271",
+      "USR0188",
+      "USR0068",
+      "USR0216",
+      "USR0292",
+      "USR0089",
+      "USR0242"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0192",
+    "reserva_id": "RES0192",
+    "calificacion": 1,
+    "texto": "El servicio fue lento y el cuarto llegó sucio.",
+    "fecha_creacion": "2026-07-17T12:40:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 6,
+    "votantes": [
+      "USR0143",
+      "USR0275",
+      "USR0079",
+      "USR0217",
+      "USR0206",
+      "USR0159"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0193",
+    "reserva_id": "RES0193",
+    "calificacion": 3,
+    "texto": "El personal fue amable aunque el servicio fue algo lento.",
+    "fecha_creacion": "2025-11-25T21:41:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0159"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0194",
+    "reserva_id": "RES0194",
+    "calificacion": 5,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2025-07-04T15:39:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 4,
+    "votantes": [
+      "USR0084",
+      "USR0255",
+      "USR0062",
+      "USR0178"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0195",
+    "reserva_id": "RES0195",
+    "calificacion": 5,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-03-24T20:55:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-06-26T14:17:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 8,
+    "votantes": [
+      "USR0256",
+      "USR0081",
+      "USR0234",
+      "USR0255",
+      "USR0029",
+      "USR0291",
+      "USR0131",
+      "USR0033"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0196",
+    "reserva_id": "RES0196",
+    "calificacion": 5,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-09-01T08:54:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 3,
+    "votantes": [
+      "USR0187",
+      "USR0077",
+      "USR0242"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0197",
+    "reserva_id": "RES0197",
+    "calificacion": 5,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-04-14T22:46:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-06-04T16:43:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0199",
+    "reserva_id": "RES0199",
+    "calificacion": 5,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-08-28T12:49:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 5,
+    "votantes": [
+      "USR0234",
+      "USR0150",
+      "USR0125",
+      "USR0289",
+      "USR0103"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0200",
+    "reserva_id": "RES0200",
+    "calificacion": 4,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-04-24T22:34:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 3,
+    "votantes": [
+      "USR0120",
+      "USR0210",
+      "USR0013"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0201",
+    "reserva_id": "RES0201",
+    "calificacion": 5,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2026-01-25T18:24:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 4,
+    "votantes": [
+      "USR0073",
+      "USR0215",
+      "USR0272",
+      "USR0252"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0202",
+    "reserva_id": "RES0202",
+    "calificacion": 2,
+    "texto": "Ruido excesivo durante la noche, no pude descansar bien.",
+    "fecha_creacion": "2026-09-14T19:57:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2026-02-17T10:40:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 6,
+    "votantes": [
+      "USR0067",
+      "USR0202",
+      "USR0150",
+      "USR0168",
+      "USR0223",
+      "USR0291"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0203",
+    "reserva_id": "RES0203",
+    "calificacion": 3,
+    "texto": "Buena ubicación pero las habitaciones necesitan renovación.",
+    "fecha_creacion": "2025-10-04T10:06:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-07-04T16:22:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0047",
+      "USR0238",
+      "USR0232"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0205",
+    "reserva_id": "RES0205",
+    "calificacion": 5,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2025-06-05T09:45:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-09-02T18:19:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0016",
+      "USR0282",
+      "USR0232",
+      "USR0049"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0206",
+    "reserva_id": "RES0206",
+    "calificacion": 5,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2025-01-27T20:14:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-11-21T18:05:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0170",
+      "USR0012",
+      "USR0039",
+      "USR0102"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0208",
+    "reserva_id": "RES0208",
+    "calificacion": 2,
+    "texto": "El aire acondicionado no funcionaba correctamente.",
+    "fecha_creacion": "2025-12-13T15:01:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-06-07T22:11:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0152",
+      "USR0256",
+      "USR0211",
+      "USR0126"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0209",
+    "reserva_id": "RES0209",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-03-14T11:41:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 8,
+    "votantes": [
+      "USR0184",
+      "USR0177",
+      "USR0279",
+      "USR0010",
+      "USR0290",
+      "USR0246",
+      "USR0093",
+      "USR0199"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0210",
+    "reserva_id": "RES0210",
+    "calificacion": 3,
+    "texto": "El personal fue amable aunque el servicio fue algo lento.",
+    "fecha_creacion": "2025-08-17T13:49:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-02-08T18:15:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0029",
+      "USR0182",
+      "USR0295",
+      "USR0089"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0211",
+    "reserva_id": "RES0211",
+    "calificacion": 4,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2026-01-23T19:22:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 2,
+    "votantes": [
+      "USR0278",
+      "USR0097"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0212",
+    "reserva_id": "RES0212",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-10-08T08:33:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-04-26T10:21:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0076",
+      "USR0166"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0213",
+    "reserva_id": "RES0213",
+    "calificacion": 5,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2026-06-03T13:45:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 6,
+    "votantes": [
+      "USR0081",
+      "USR0166",
+      "USR0250",
+      "USR0155",
+      "USR0288",
+      "USR0052"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0214",
+    "reserva_id": "RES0214",
+    "calificacion": 4,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2025-12-23T12:08:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-07-28T20:36:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0216",
+    "reserva_id": "RES0216",
+    "calificacion": 5,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2026-02-16T10:21:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 3,
+    "votantes": [
+      "USR0172",
+      "USR0229",
+      "USR0164"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0218",
+    "reserva_id": "RES0218",
+    "calificacion": 5,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2025-02-24T08:03:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-07-16T22:24:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0084",
+      "USR0052",
+      "USR0246",
+      "USR0280",
+      "USR0193"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0219",
+    "reserva_id": "RES0219",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-03-13T10:46:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-10-20T22:30:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0220",
+    "reserva_id": "RES0220",
+    "calificacion": 5,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-02-11T11:12:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-05-22T12:19:00",
+      "admin_id": "USR0295"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0050",
+      "USR0202",
+      "USR0282"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0222",
+    "reserva_id": "RES0222",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2026-11-20T15:12:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2026-11-10T09:30:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0204"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0223",
+    "reserva_id": "RES0223",
+    "calificacion": 5,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-09-13T10:23:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": null,
+    "votos_count": 5,
+    "votantes": [
+      "USR0096",
+      "USR0116",
+      "USR0289",
+      "USR0229",
+      "USR0138"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0225",
+    "reserva_id": "RES0225",
+    "calificacion": 5,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2026-09-14T20:37:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2026-09-14T16:43:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 7,
+    "votantes": [
+      "USR0041",
+      "USR0076",
+      "USR0062",
+      "USR0154",
+      "USR0203",
+      "USR0265",
+      "USR0121"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0227",
+    "reserva_id": "RES0227",
+    "calificacion": 5,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-07-03T18:27:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-05-11T22:46:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0199"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0228",
+    "reserva_id": "RES0228",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-01-26T19:39:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-07-05T10:36:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0289"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0229",
+    "reserva_id": "RES0229",
+    "calificacion": 5,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2026-05-13T18:31:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2026-03-09T14:09:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 6,
+    "votantes": [
+      "USR0191",
+      "USR0011",
+      "USR0026",
+      "USR0170",
+      "USR0203",
+      "USR0173"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0230",
+    "reserva_id": "RES0230",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2026-04-05T12:47:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2026-12-14T17:41:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0097"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0231",
+    "reserva_id": "RES0231",
+    "calificacion": 5,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-06-27T08:32:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0260"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0232",
+    "reserva_id": "RES0232",
+    "calificacion": 5,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2025-04-27T08:15:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-12-07T12:23:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 7,
+    "votantes": [
+      "USR0259",
+      "USR0191",
+      "USR0016",
+      "USR0084",
+      "USR0064",
+      "USR0229",
+      "USR0091"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0233",
+    "reserva_id": "RES0233",
+    "calificacion": 3,
+    "texto": "Hotel aceptable para el precio pagado, nada extraordinario.",
+    "fecha_creacion": "2025-07-02T10:54:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-11-08T18:13:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0068",
+      "USR0011",
+      "USR0210",
+      "USR0089"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0234",
+    "reserva_id": "RES0234",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2026-12-21T12:27:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 5,
+    "votantes": [
+      "USR0155",
+      "USR0267",
+      "USR0053",
+      "USR0004",
+      "USR0236"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0235",
+    "reserva_id": "RES0235",
+    "calificacion": 5,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2025-10-20T12:19:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 7,
+    "votantes": [
+      "USR0153",
+      "USR0097",
+      "USR0207",
+      "USR0167",
+      "USR0033",
+      "USR0134",
+      "USR0077"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0236",
+    "reserva_id": "RES0236",
+    "calificacion": 5,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-05-14T14:24:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 3,
+    "votantes": [
+      "USR0184",
+      "USR0260",
+      "USR0114"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0237",
+    "reserva_id": "RES0237",
+    "calificacion": 3,
+    "texto": "Buena ubicación pero las habitaciones necesitan renovación.",
+    "fecha_creacion": "2025-08-05T19:16:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 8,
+    "votantes": [
+      "USR0151",
+      "USR0172",
+      "USR0216",
+      "USR0182",
+      "USR0115",
+      "USR0191",
+      "USR0061",
+      "USR0170"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0239",
+    "reserva_id": "RES0239",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-04-17T09:55:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 8,
+    "votantes": [
+      "USR0153",
+      "USR0250",
+      "USR0235",
+      "USR0074",
+      "USR0212",
+      "USR0292",
+      "USR0210",
+      "USR0162"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0240",
+    "reserva_id": "RES0240",
+    "calificacion": 3,
+    "texto": "Hotel aceptable para el precio pagado, nada extraordinario.",
+    "fecha_creacion": "2025-05-07T20:49:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-02-05T17:27:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 6,
+    "votantes": [
+      "USR0008",
+      "USR0207",
+      "USR0103",
+      "USR0245",
+      "USR0197",
+      "USR0192"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0242",
+    "reserva_id": "RES0242",
+    "calificacion": 4,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-06-10T10:06:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-03-03T21:02:00",
+      "admin_id": "USR0295"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0234",
+      "USR0223",
+      "USR0149",
+      "USR0269"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0243",
+    "reserva_id": "RES0243",
+    "calificacion": 4,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-07-01T11:14:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 2,
+    "votantes": [
+      "USR0259",
+      "USR0109"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0245",
+    "reserva_id": "RES0245",
+    "calificacion": 5,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2026-05-25T16:39:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2026-11-27T08:03:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0214"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0246",
+    "reserva_id": "RES0246",
+    "calificacion": 4,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-04-23T18:40:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2026-11-17T12:39:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0215",
+      "USR0061"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0247",
+    "reserva_id": "RES0247",
+    "calificacion": 5,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2025-04-25T12:53:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-12-14T12:10:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0248",
+    "reserva_id": "RES0248",
+    "calificacion": 5,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2025-01-01T18:05:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 7,
+    "votantes": [
+      "USR0152",
+      "USR0234",
+      "USR0052",
+      "USR0047",
+      "USR0077",
+      "USR0026",
+      "USR0039"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0249",
+    "reserva_id": "RES0249",
+    "calificacion": 5,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2026-06-14T19:07:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2026-03-22T18:10:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0184",
+      "USR0205",
+      "USR0191",
+      "USR0206",
+      "USR0225"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0250",
+    "reserva_id": "RES0250",
+    "calificacion": 3,
+    "texto": "Cumple con lo básico, el desayuno podría mejorar.",
+    "fecha_creacion": "2026-08-26T14:41:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 2,
+    "votantes": [
+      "USR0031",
+      "USR0058"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0252",
+    "reserva_id": "RES0252",
+    "calificacion": 4,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2025-07-25T13:39:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-08-04T22:26:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 7,
+    "votantes": [
+      "USR0174",
+      "USR0266",
+      "USR0115",
+      "USR0161",
+      "USR0290",
+      "USR0269",
+      "USR0033"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0253",
+    "reserva_id": "RES0253",
+    "calificacion": 3,
+    "texto": "El personal fue amable aunque el servicio fue algo lento.",
+    "fecha_creacion": "2026-11-13T10:53:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0255",
+    "reserva_id": "RES0255",
+    "calificacion": 4,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-03-03T20:31:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2026-01-17T11:35:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 6,
+    "votantes": [
+      "USR0256",
+      "USR0207",
+      "USR0162",
+      "USR0061",
+      "USR0229",
+      "USR0228"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0256",
+    "reserva_id": "RES0256",
+    "calificacion": 5,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2025-07-02T16:35:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-10-21T12:56:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 8,
+    "votantes": [
+      "USR0050",
+      "USR0234",
+      "USR0288",
+      "USR0187",
+      "USR0115",
+      "USR0287",
+      "USR0170",
+      "USR0233"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0258",
+    "reserva_id": "RES0258",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-06-23T09:02:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 7,
+    "votantes": [
+      "USR0174",
+      "USR0202",
+      "USR0235",
+      "USR0097",
+      "USR0210",
+      "USR0131",
+      "USR0072"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0260",
+    "reserva_id": "RES0260",
+    "calificacion": 5,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2026-08-15T18:37:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 2,
+    "votantes": [
+      "USR0256",
+      "USR0272"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0261",
+    "reserva_id": "RES0261",
+    "calificacion": 4,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-03-23T17:11:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 2,
+    "votantes": [
+      "USR0199",
+      "USR0165"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0262",
+    "reserva_id": "RES0262",
+    "calificacion": 4,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-06-10T15:51:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-12-24T16:19:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 8,
+    "votantes": [
+      "USR0177",
+      "USR0166",
+      "USR0108",
+      "USR0068",
+      "USR0181",
+      "USR0161",
+      "USR0288",
+      "USR0246"
+    ]
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0263",
+    "reserva_id": "RES0263",
+    "calificacion": 5,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2026-09-10T22:54:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2026-02-01T14:09:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0264",
+    "reserva_id": "RES0264",
+    "calificacion": 3,
+    "texto": "Buena ubicación pero las habitaciones necesitan renovación.",
+    "fecha_creacion": "2026-11-09T10:53:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2026-09-02T13:52:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 7,
+    "votantes": [
+      "USR0214",
+      "USR0148",
+      "USR0288",
+      "USR0200",
+      "USR0115",
+      "USR0161",
+      "USR0053"
+    ]
+  },
+  {
+    "hotel_id": "HOT006",
+    "cliente_id": "USR0266",
+    "reserva_id": "RES0266",
+    "calificacion": 3,
+    "texto": "Cumple con lo básico, el desayuno podría mejorar.",
+    "fecha_creacion": "2026-11-23T19:41:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2026-12-20T11:49:00",
+      "admin_id": "USR0295"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0151",
+      "USR0096",
+      "USR0089"
+    ]
+  },
+  {
+    "hotel_id": "HOT007",
+    "cliente_id": "USR0267",
+    "reserva_id": "RES0267",
+    "calificacion": 2,
+    "texto": "El servicio fue lento y el cuarto llegó sucio.",
+    "fecha_creacion": "2025-09-09T10:10:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-06-15T19:59:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0027",
+      "USR0079"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0268",
+    "reserva_id": "RES0268",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2025-10-18T13:04:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 5,
+    "votantes": [
+      "USR0259",
+      "USR0275",
+      "USR0082",
+      "USR0279",
+      "USR0270"
+    ]
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0269",
+    "reserva_id": "RES0269",
+    "calificacion": 4,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2026-06-12T12:13:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 8,
+    "votantes": [
+      "USR0277",
+      "USR0288",
+      "USR0125",
+      "USR0229",
+      "USR0145",
+      "USR0165",
+      "USR0198",
+      "USR0178"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0271",
+    "reserva_id": "RES0271",
+    "calificacion": 5,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2025-05-21T11:20:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2025-09-18T08:40:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0110"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0272",
+    "reserva_id": "RES0272",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-12-24T20:27:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0079"
+    ]
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0273",
+    "reserva_id": "RES0273",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-03-26T12:35:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-07-13T15:40:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 6,
+    "votantes": [
+      "USR0184",
+      "USR0200",
+      "USR0162",
+      "USR0061",
+      "USR0033",
+      "USR0004"
+    ]
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0274",
+    "reserva_id": "RES0274",
+    "calificacion": 2,
+    "texto": "Cobros adicionales no informados al momento de reservar.",
+    "fecha_creacion": "2025-02-10T20:59:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-08-06T16:14:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 2,
+    "votantes": [
+      "USR0152",
+      "USR0201"
+    ]
+  },
+  {
+    "hotel_id": "HOT015",
+    "cliente_id": "USR0275",
+    "reserva_id": "RES0275",
+    "calificacion": 5,
+    "texto": "Habitación espaciosa con vista hermosa. Servicio impecable.",
+    "fecha_creacion": "2026-01-18T21:35:00",
+    "estado": "publicada",
+    "destacada": true,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2026-10-20T14:34:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 8,
+    "votantes": [
+      "USR0108",
+      "USR0157",
+      "USR0212",
+      "USR0073",
+      "USR0291",
+      "USR0044",
+      "USR0093",
+      "USR0095"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0276",
+    "reserva_id": "RES0276",
+    "calificacion": 5,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-02-10T18:04:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2026-08-11T13:08:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0052",
+      "USR0036",
+      "USR0100"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0277",
+    "reserva_id": "RES0277",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2026-03-19T17:23:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 6,
+    "votantes": [
+      "USR0237",
+      "USR0161",
+      "USR0246",
+      "USR0170",
+      "USR0224",
+      "USR0127"
+    ]
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0278",
+    "reserva_id": "RES0278",
+    "calificacion": 5,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2025-03-21T17:05:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 2,
+    "votantes": [
+      "USR0101",
+      "USR0135"
+    ]
+  },
+  {
+    "hotel_id": "HOT004",
+    "cliente_id": "USR0279",
+    "reserva_id": "RES0279",
+    "calificacion": 5,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2026-10-13T20:37:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2026-05-18T22:34:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 7,
+    "votantes": [
+      "USR0257",
+      "USR0188",
+      "USR0115",
+      "USR0187",
+      "USR0006",
+      "USR0047",
+      "USR0149"
+    ]
+  },
+  {
+    "hotel_id": "HOT005",
+    "cliente_id": "USR0280",
+    "reserva_id": "RES0280",
+    "calificacion": 5,
+    "texto": "Ubicación perfecta, cerca de todo. Definitivamente volvería.",
+    "fecha_creacion": "2026-03-15T10:11:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2026-12-24T15:22:00",
+      "admin_id": "USR0295"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT006",
+    "cliente_id": "USR0281",
+    "reserva_id": "RES0281",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-04-02T18:13:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-08-15T22:02:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT007",
+    "cliente_id": "USR0282",
+    "reserva_id": "RES0282",
+    "calificacion": 4,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2026-05-19T16:36:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2026-10-21T22:53:00",
+      "admin_id": "USR0294"
+    },
+    "votos_count": 1,
+    "votantes": [
+      "USR0129"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0283",
+    "reserva_id": "RES0283",
+    "calificacion": 5,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2025-06-16T20:30:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT009",
+    "cliente_id": "USR0284",
+    "reserva_id": "RES0284",
+    "calificacion": 2,
+    "texto": "Ruido excesivo durante la noche, no pude descansar bien.",
+    "fecha_creacion": "2025-09-21T12:13:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Lamentamos los inconvenientes presentados. Mejoraremos este aspecto.",
+      "fecha": "2025-10-23T21:07:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 3,
+    "votantes": [
+      "USR0247",
+      "USR0246",
+      "USR0213"
+    ]
+  },
+  {
+    "hotel_id": "HOT010",
+    "cliente_id": "USR0285",
+    "reserva_id": "RES0285",
+    "calificacion": 3,
+    "texto": "Cumple con lo básico, el desayuno podría mejorar.",
+    "fecha_creacion": "2025-01-05T17:37:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por su visita. Tomamos nota de sus comentarios para mejorar.",
+      "fecha": "2025-10-05T08:10:00",
+      "admin_id": "USR0295"
+    },
+    "votos_count": 4,
+    "votantes": [
+      "USR0010",
+      "USR0044",
+      "USR0093",
+      "USR0289"
+    ]
+  },
+  {
+    "hotel_id": "HOT011",
+    "cliente_id": "USR0286",
+    "reserva_id": "RES0286",
+    "calificacion": 5,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2025-07-20T10:50:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-11-17T12:10:00",
+      "admin_id": "USR0292"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0118",
+      "USR0068",
+      "USR0056",
+      "USR0194",
+      "USR0036"
+    ]
+  },
+  {
+    "hotel_id": "HOT012",
+    "cliente_id": "USR0287",
+    "reserva_id": "RES0287",
+    "calificacion": 4,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2026-10-04T10:30:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT013",
+    "cliente_id": "USR0288",
+    "reserva_id": "RES0288",
+    "calificacion": 4,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-11-05T22:38:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Gracias por elegirnos. Sus comentarios son muy valiosos para nosotros.",
+      "fecha": "2025-09-14T13:55:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 0,
+    "votantes": []
+  },
+  {
+    "hotel_id": "HOT014",
+    "cliente_id": "USR0289",
+    "reserva_id": "RES0289",
+    "calificacion": 4,
+    "texto": "Relación calidad-precio inmejorable. Volveré sin duda.",
+    "fecha_creacion": "2026-07-12T17:51:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 1,
+    "votantes": [
+      "USR0218"
+    ]
+  },
+  {
+    "hotel_id": "HOT015",
+    "cliente_id": "USR0290",
+    "reserva_id": "RES0290",
+    "calificacion": 5,
+    "texto": "El personal fue muy amable y atento durante toda la estadía.",
+    "fecha_creacion": "2025-09-14T12:12:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2025-09-04T16:00:00",
+      "admin_id": "USR0291"
+    },
+    "votos_count": 6,
+    "votantes": [
+      "USR0275",
+      "USR0186",
+      "USR0217",
+      "USR0219",
+      "USR0162",
+      "USR0210"
+    ]
+  },
+  {
+    "hotel_id": "HOT001",
+    "cliente_id": "USR0291",
+    "reserva_id": "RES0291",
+    "calificacion": 4,
+    "texto": "El mejor hotel en el que he estado. Todo fue perfecto.",
+    "fecha_creacion": "2026-07-18T20:35:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Nos alegra que haya disfrutado su estadía. ¡Hasta pronto!",
+      "fecha": "2026-09-16T12:19:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0261",
+      "USR0118",
+      "USR0052",
+      "USR0206",
+      "USR0061"
+    ]
+  },
+  {
+    "hotel_id": "HOT002",
+    "cliente_id": "USR0292",
+    "reserva_id": "RES0292",
+    "calificacion": 5,
+    "texto": "Excelente servicio, habitaciones muy cómodas y limpias.",
+    "fecha_creacion": "2025-11-01T20:05:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 7,
+    "votantes": [
+      "USR0223",
+      "USR0041",
+      "USR0147",
+      "USR0206",
+      "USR0033",
+      "USR0197",
+      "USR0114"
+    ]
+  },
+  {
+    "hotel_id": "HOT003",
+    "cliente_id": "USR0293",
+    "reserva_id": "RES0293",
+    "calificacion": 4,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2026-09-10T11:02:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 8,
+    "votantes": [
+      "USR0081",
+      "USR0205",
+      "USR0045",
+      "USR0208",
+      "USR0266",
+      "USR0181",
+      "USR0123",
+      "USR0203"
+    ]
+  },
+  {
+    "hotel_id": "HOT005",
+    "cliente_id": "USR0295",
+    "reserva_id": "RES0295",
+    "calificacion": 5,
+    "texto": "Superó todas mis expectativas, altamente recomendado.",
+    "fecha_creacion": "2026-09-19T13:22:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 4,
+    "votantes": [
+      "USR0207",
+      "USR0295",
+      "USR0134",
+      "USR0233"
+    ]
+  },
+  {
+    "hotel_id": "HOT006",
+    "cliente_id": "USR0296",
+    "reserva_id": "RES0296",
+    "calificacion": 2,
+    "texto": "El servicio fue lento y el cuarto llegó sucio.",
+    "fecha_creacion": "2025-06-04T20:32:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 8,
+    "votantes": [
+      "USR0174",
+      "USR0235",
+      "USR0247",
+      "USR0227",
+      "USR0125",
+      "USR0295",
+      "USR0194",
+      "USR0289"
+    ]
+  },
+  {
+    "hotel_id": "HOT007",
+    "cliente_id": "USR0297",
+    "reserva_id": "RES0297",
+    "calificacion": 5,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2026-07-12T16:34:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": {
+      "texto": "Apreciamos su estadía y esperamos verle pronto de nuevo.",
+      "fecha": "2026-05-03T14:43:00",
+      "admin_id": "USR0293"
+    },
+    "votos_count": 5,
+    "votantes": [
+      "USR0182",
+      "USR0161",
+      "USR0112",
+      "USR0039",
+      "USR0094"
+    ]
+  },
+  {
+    "hotel_id": "HOT008",
+    "cliente_id": "USR0298",
+    "reserva_id": "RES0298",
+    "calificacion": 5,
+    "texto": "Las instalaciones son modernas y el desayuno espectacular.",
+    "fecha_creacion": "2025-04-08T19:15:00",
+    "estado": "publicada",
+    "destacada": false,
+    "respuesta_admin": null,
+    "votos_count": 3,
+    "votantes": [
+      "USR0118",
+      "USR0104",
+      "USR0080"
+    ]
+  }
+]
